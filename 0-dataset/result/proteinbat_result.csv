@@ -1,0 +1,21 @@
+UniProt ID,Gene Symbol,Protein Name,Drug,Prob Score,Z_Score,P Value
+P32249,GPR183,G-protein coupled receptor 183,4-aminobenzoic acid ,0.94,2.311710913499747,0.0103968097847392
+Q96DB2,HDAC11,Histone deacetylase 11,Trans-3-indoleacrylic acid,0.94,2.311710913499747,0.0103968097847392
+P17612,PRKACA,cAMP-dependent protein kinase catalytic subunit alpha,4-aminobenzoic acid ,0.92,2.200321578791585,0.0138920436714284
+P15692,VEGFA,"Vascular endothelial growth factor A, long form",Alpha-lapachone,0.9,2.088932244083422,0.0183569114080452
+P10275,AR,Androgen receptor,Citric acid,0.9,2.088932244083422,0.0183569114080452
+O15379,HDAC3,Histone deacetylase 3,Citric acid,0.9,2.088932244083422,0.0183569114080452
+P21554,CNR1,Cannabinoid receptor 1,Citric acid,0.9,2.088932244083422,0.0183569114080452
+Q05469,LIPE,Hormone-sensitive lipase,Murraol,0.9,2.088932244083422,0.0183569114080452
+P61073,CXCR4,C-X-C chemokine receptor type 4,L-phenylalanine ,0.9,2.088932244083422,0.0183569114080452
+P11217,PYGM,"Glycogen phosphorylase, muscle form",Citric acid,0.9,2.088932244083422,0.0183569114080452
+P23975,SLC6A2,Sodium-dependent noradrenaline transporter,Alpha-lapachone,0.9,2.088932244083422,0.0183569114080452
+Q05513,PRKCZ,Protein kinase C zeta type,4-aminobenzoic acid ,0.88,1.9775429093752592,0.0239901476207856
+P35354,PTGS2,Prostaglandin G/H synthase 2,DL-tryptophan,0.88,1.9775429093752592,0.0239901476207856
+Q16665,HIF1A,Hypoxia-inducible factor 1-alpha,4-O-feruloyl-D-quinic acid,0.88,1.9775429093752592,0.0239901476207856
+Q13976,PRKG1,cGMP-dependent protein kinase 1,L-phenylalanine ,0.88,1.9775429093752592,0.0239901476207856
+P80370,DLK1,Protein delta homolog 1,L-phenylalanine ,0.88,1.9775429093752592,0.0239901476207856
+O15264,MAPK13,Mitogen-activated protein kinase 13,Citric acid,0.86,1.8661535746670963,0.0310099411156282
+Q99814,EPAS1,Endothelial PAS domain-containing protein 1,Pheophorbide a,0.84,1.7547642399589336,0.0396498213379004
+P54646,PRKAA2,5'-AMP-activated protein kinase catalytic subunit alpha-2,4-aminobenzoic acid ,0.84,1.7547642399589336,0.0396498213379004
+Q13131,PRKAA1,5'-AMP-activated protein kinase catalytic subunit alpha-1,Pheophorbide a,0.84,1.7547642399589336,0.0396498213379004

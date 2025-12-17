@@ -1,0 +1,69 @@
+UniProt ID,Gene Symbol,Protein Name,Drug,Prob Score,Z_Score,P Value
+P32249,GPR183,G-protein coupled receptor 183,4-aminobenzoic acid ,0.94,2.311710913499747,0.010396809784739225
+Q96DB2,HDAC11,Histone deacetylase 11,Trans-3-indoleacrylic acid,0.94,2.311710913499747,0.010396809784739225
+P17612,PRKACA,cAMP-dependent protein kinase catalytic subunit alpha,4-aminobenzoic acid ,0.92,2.200321578791585,0.013892043671428489
+P15692,VEGFA,"Vascular endothelial growth factor A, long form",Alpha-lapachone,0.9,2.088932244083422,0.018356911408045296
+P10275,AR,Androgen receptor,Citric acid,0.9,2.088932244083422,0.018356911408045296
+O15379,HDAC3,Histone deacetylase 3,Citric acid,0.9,2.088932244083422,0.018356911408045296
+P17612,PRKACA,cAMP-dependent protein kinase catalytic subunit alpha,Hainanmurpanin,0.9,2.088932244083422,0.018356911408045296
+P17612,PRKACA,cAMP-dependent protein kinase catalytic subunit alpha,"Limonene, (+/-)- ",0.9,2.088932244083422,0.018356911408045296
+P21554,CNR1,Cannabinoid receptor 1,Citric acid,0.9,2.088932244083422,0.018356911408045296
+Q05469,LIPE,Hormone-sensitive lipase,Murraol,0.9,2.088932244083422,0.018356911408045296
+Q05469,LIPE,Hormone-sensitive lipase,Hainanmurpanin,0.9,2.088932244083422,0.018356911408045296
+P10275,AR,Androgen receptor,"Limonene, (+/-)- ",0.9,2.088932244083422,0.018356911408045296
+Q05469,LIPE,Hormone-sensitive lipase,Murrangatin,0.9,2.088932244083422,0.018356911408045296
+P61073,CXCR4,C-X-C chemokine receptor type 4,L-phenylalanine ,0.9,2.088932244083422,0.018356911408045296
+P11217,PYGM,"Glycogen phosphorylase, muscle form",Citric acid,0.9,2.088932244083422,0.018356911408045296
+P11217,PYGM,"Glycogen phosphorylase, muscle form",4-aminobenzoic acid ,0.9,2.088932244083422,0.018356911408045296
+O15379,HDAC3,Histone deacetylase 3,Trans-3-indoleacrylic acid,0.9,2.088932244083422,0.018356911408045296
+P23975,SLC6A2,Sodium-dependent noradrenaline transporter,Alpha-lapachone,0.9,2.088932244083422,0.018356911408045296
+Q05469,LIPE,Hormone-sensitive lipase,4-aminobenzoic acid ,0.88,1.9775429093752592,0.023990147620785662
+P23975,SLC6A2,Sodium-dependent noradrenaline transporter,4-aminobenzoic acid ,0.88,1.9775429093752592,0.023990147620785662
+Q05513,PRKCZ,Protein kinase C zeta type,4-aminobenzoic acid ,0.88,1.9775429093752592,0.023990147620785662
+P35354,PTGS2,Prostaglandin G/H synthase 2,DL-tryptophan,0.88,1.9775429093752592,0.023990147620785662
+Q16665,HIF1A,Hypoxia-inducible factor 1-alpha,4-O-feruloyl-D-quinic acid,0.88,1.9775429093752592,0.023990147620785662
+P15692,VEGFA,"Vascular endothelial growth factor A, long form",Murrangatin,0.88,1.9775429093752592,0.023990147620785662
+O15379,HDAC3,Histone deacetylase 3,4-aminobenzoic acid ,0.88,1.9775429093752592,0.023990147620785662
+Q13976,PRKG1,cGMP-dependent protein kinase 1,L-phenylalanine ,0.88,1.9775429093752592,0.023990147620785662
+P17612,PRKACA,cAMP-dependent protein kinase catalytic subunit alpha,Murraol,0.88,1.9775429093752592,0.023990147620785662
+O15379,HDAC3,Histone deacetylase 3,L-phenylalanine ,0.88,1.9775429093752592,0.023990147620785662
+O15379,HDAC3,Histone deacetylase 3,DL-tryptophan,0.88,1.9775429093752592,0.023990147620785662
+P15692,VEGFA,"Vascular endothelial growth factor A, long form","Limonene, (+/-)- ",0.88,1.9775429093752592,0.023990147620785662
+P15692,VEGFA,"Vascular endothelial growth factor A, long form",Murralongin,0.88,1.9775429093752592,0.023990147620785662
+Q05513,PRKCZ,Protein kinase C zeta type,Murraol,0.88,1.9775429093752592,0.023990147620785662
+P80370,DLK1,Protein delta homolog 1,L-phenylalanine ,0.88,1.9775429093752592,0.023990147620785662
+P17612,PRKACA,cAMP-dependent protein kinase catalytic subunit alpha,DL-tryptophan,0.86,1.8661535746670965,0.03100994111562827
+Q16665,HIF1A,Hypoxia-inducible factor 1-alpha,4-aminobenzoic acid ,0.86,1.8661535746670965,0.03100994111562827
+P10275,AR,Androgen receptor,Murraol,0.86,1.8661535746670965,0.03100994111562827
+Q16665,HIF1A,Hypoxia-inducible factor 1-alpha,Murraol,0.86,1.8661535746670965,0.03100994111562827
+P80370,DLK1,Protein delta homolog 1,Murralongin,0.86,1.8661535746670965,0.03100994111562827
+Q05469,LIPE,Hormone-sensitive lipase,L-phenylalanine ,0.86,1.8661535746670965,0.03100994111562827
+P23975,SLC6A2,Sodium-dependent noradrenaline transporter,L-phenylalanine ,0.86,1.8661535746670965,0.03100994111562827
+P23975,SLC6A2,Sodium-dependent noradrenaline transporter,Murrangatin,0.86,1.8661535746670965,0.03100994111562827
+P80370,DLK1,Protein delta homolog 1,Citric acid,0.86,1.8661535746670965,0.03100994111562827
+O15264,MAPK13,Mitogen-activated protein kinase 13,Citric acid,0.86,1.8661535746670965,0.03100994111562827
+P35354,PTGS2,Prostaglandin G/H synthase 2,Citric acid,0.86,1.8661535746670965,0.03100994111562827
+P10275,AR,Androgen receptor,4-O-feruloyl-D-quinic acid,0.86,1.8661535746670965,0.03100994111562827
+P23975,SLC6A2,Sodium-dependent noradrenaline transporter,Hainanmurpanin,0.86,1.8661535746670965,0.03100994111562827
+P23975,SLC6A2,Sodium-dependent noradrenaline transporter,Murraol,0.86,1.8661535746670965,0.03100994111562827
+Q05513,PRKCZ,Protein kinase C zeta type,Hainanmurpanin,0.86,1.8661535746670965,0.03100994111562827
+Q05469,LIPE,Hormone-sensitive lipase,Citric acid,0.86,1.8661535746670965,0.03100994111562827
+Q05513,PRKCZ,Protein kinase C zeta type,Citric acid,0.86,1.8661535746670965,0.03100994111562827
+Q05513,PRKCZ,Protein kinase C zeta type,4-O-feruloyl-D-quinic acid,0.86,1.8661535746670965,0.03100994111562827
+Q99814,EPAS1,Endothelial PAS domain-containing protein 1,Pheophorbide a,0.84,1.7547642399589336,0.039649821337900404
+P17612,PRKACA,cAMP-dependent protein kinase catalytic subunit alpha,Murralongin,0.84,1.7547642399589336,0.039649821337900404
+Q99814,EPAS1,Endothelial PAS domain-containing protein 1,"(1R,9S)-5-[(E)-2-(4-chlorophenyl)ethenyl]-11-(pyrimidine-5-carbonyl)-7,11-diazatricyclo[7.3.1.02,7]trideca-2,4-dien-6-one",0.84,1.7547642399589336,0.039649821337900404
+Q99814,EPAS1,Endothelial PAS domain-containing protein 1,Citric acid,0.84,1.7547642399589336,0.039649821337900404
+Q96DB2,HDAC11,Histone deacetylase 11,Citric acid,0.84,1.7547642399589336,0.039649821337900404
+P15692,VEGFA,"Vascular endothelial growth factor A, long form",Citric acid,0.84,1.7547642399589336,0.039649821337900404
+P80370,DLK1,Protein delta homolog 1,Hainanmurpanin,0.84,1.7547642399589336,0.039649821337900404
+P35354,PTGS2,Prostaglandin G/H synthase 2,L-phenylalanine ,0.84,1.7547642399589336,0.039649821337900404
+Q05513,PRKCZ,Protein kinase C zeta type,L-phenylalanine ,0.84,1.7547642399589336,0.039649821337900404
+P54646,PRKAA2,5'-AMP-activated protein kinase catalytic subunit alpha-2,4-aminobenzoic acid ,0.84,1.7547642399589336,0.039649821337900404
+O15264,MAPK13,Mitogen-activated protein kinase 13,L-phenylalanine ,0.84,1.7547642399589336,0.039649821337900404
+Q96DB2,HDAC11,Histone deacetylase 11,Hainanmurpanin,0.84,1.7547642399589336,0.039649821337900404
+P17612,PRKACA,cAMP-dependent protein kinase catalytic subunit alpha,Alpha-lapachone,0.84,1.7547642399589336,0.039649821337900404
+P17612,PRKACA,cAMP-dependent protein kinase catalytic subunit alpha,Trans-3-indoleacrylic acid,0.84,1.7547642399589336,0.039649821337900404
+Q13131,PRKAA1,5'-AMP-activated protein kinase catalytic subunit alpha-1,Pheophorbide a,0.84,1.7547642399589336,0.039649821337900404
+P54646,PRKAA2,5'-AMP-activated protein kinase catalytic subunit alpha-2,"(1R,9S)-5-[(E)-2-(4-chlorophenyl)ethenyl]-11-(pyrimidine-5-carbonyl)-7,11-diazatricyclo[7.3.1.02,7]trideca-2,4-dien-6-one",0.84,1.7547642399589336,0.039649821337900404
+P11217,PYGM,"Glycogen phosphorylase, muscle form",Murraol,0.84,1.7547642399589336,0.039649821337900404

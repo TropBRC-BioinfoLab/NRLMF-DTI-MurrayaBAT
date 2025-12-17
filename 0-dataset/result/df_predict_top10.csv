@@ -1,0 +1,11 @@
+UniProt ID,Gene Symbol,Protein Name,Drug,Prob Score,Z_Score,P Value
+P32249,GPR183,G-protein coupled receptor 183,4-aminobenzoic acid ,0.94,2.311710913499747,0.0103968097847392
+Q96DB2,HDAC11,Histone deacetylase 11,Trans-3-indoleacrylic acid,0.94,2.311710913499747,0.0103968097847392
+P17612,PRKACA,cAMP-dependent protein kinase catalytic subunit alpha,4-aminobenzoic acid ,0.92,2.200321578791585,0.0138920436714284
+P15692,VEGFA,"Vascular endothelial growth factor A, long form",Alpha-lapachone,0.9,2.088932244083422,0.0183569114080452
+P10275,AR,Androgen receptor,Citric acid,0.9,2.088932244083422,0.0183569114080452
+O15379,HDAC3,Histone deacetylase 3,Citric acid,0.9,2.088932244083422,0.0183569114080452
+P17612,PRKACA,cAMP-dependent protein kinase catalytic subunit alpha,Hainanmurpanin,0.9,2.088932244083422,0.0183569114080452
+P17612,PRKACA,cAMP-dependent protein kinase catalytic subunit alpha,"Limonene, (+/-)- ",0.9,2.088932244083422,0.0183569114080452
+P21554,CNR1,Cannabinoid receptor 1,Citric acid,0.9,2.088932244083422,0.0183569114080452
+Q05469,LIPE,Hormone-sensitive lipase,Murraol,0.9,2.088932244083422,0.0183569114080452
