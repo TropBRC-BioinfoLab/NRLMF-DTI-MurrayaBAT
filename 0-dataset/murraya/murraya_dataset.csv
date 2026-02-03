@@ -1,5 +1,6 @@
 Formula,Senyawa,SMILES,CID
 C7H7NO2 ,4-aminobenzoic acid,C1=CC(=CC=C1C(=O)O)N,978
+C9H11NO2,L-phenylalanine,C1=CC=C(C=C1)CC(C(=O)O)N,994
 C6H8O7,Citric acid,C(C(=O)O)C(CC(=O)O)(C(=O)O)O,311
 C9H11NO2 ,Trans-3-indoleacrylic acid,C1=CC=C2C(=C1)C(=CN2)C=CC(=O)O,14558
 C11H12N2O2,DL-tryptophan,C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)N,1148
