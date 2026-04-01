@@ -125,7 +125,6 @@ def main():
     low_prob_pairs_df = neg_df.head(num_positive).reset_index(drop=True)
     
     # Create a DataFrame with protein-molecule pairs and their predicted scores
-    ## 0=protein, 1=molecule
     low_prob_pairs_df  = pd.DataFrame(
         low_prob_pairs,
         columns=['UniProt ID', 'Drug', 'score']
