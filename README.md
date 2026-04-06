@@ -31,7 +31,6 @@ Unlike conventional approaches that assume all unlabeled pairs are negative, thi
 - Models **drug–drug and target–target similarity**
 - Learns **latent representations** of compounds and proteins
 - Uses **latent interaction score (before sigmoid)**
-
 - Ranks unlabeled pairs and selects:
   - **Lowest scores → candidate negatives**
   
