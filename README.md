@@ -1,4 +1,4 @@
-##NRLMF-Guided Drug–Target Interaction Modeling for Murraya paniculata
+# NRLMF-Guided Drug–Target Interaction Modeling for Murraya paniculata
 
 This repository contains the implementation of a hybrid drug–target interaction (DTI) framework that integrates Neighborhood Regularized Logistic Matrix Factorization (NRLMF) with supervised machine learning for biologically informed negative sampling and compound–protein interaction prediction.
 
